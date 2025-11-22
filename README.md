@@ -37,12 +37,19 @@ I'm passionate about Information Systems Management, Human Computer Interaction 
 
 ## Additional studies
 
-[Aviatrix Multicloud Network Associate](https://www.credly.com/badges/c6bb4c6b-159a-442f-aa7e-74cf06bfcc3e)
+![Aviatrix ACE](https://img.shields.io/badge/Aviatrix%20ACE-Multicloud%20Network%20Associate-orange?style=for-the-badge)
+
 The Aviatrix Certified Engineer (ACE) Multicloud Network Associate certification validates the earner’s understanding of basic networking and security concepts for AWS, Azure, GCP, and OCI as well as their limitations in meeting Enterprise requirements. An ACE Associate understands the basic design principles of a multicloud network architecture and can demonstrate knowledge of day 2 operational requirements.
 ACE Certification Number: 2025-30221
 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
 [Cybersecurity Course](https://moringaschool.com/courses/cybersecurity-bootcamp/) 
 I completed the **Cybersecurity Bootcamp at Moringa School**, delivered in partnership with **Flatiron School**, where I gained hands‑on experience in Network and Systems Security, Ethical Hacking, Digital Forensics, Risk Management, and Cloud Security. The program emphasized applied skills in Networking, Operating Systems, Python Scripting, Virtualization, and System Hardening, while also covering advanced topics such as Cyber Threat Intelligence aligned with the MITRE ATT&CK framework, SIEM Configuration and Threat Hunting, Security Architecture, Incident Response, and Penetration Testing. Through interactive labs and guided projects, I developed the ability to identify vulnerabilities, secure networks and endpoints, analyze threats, and respond confidently to incidents.  
+
 
 ## 🛠 Tools & Frameworks Learned
 
@@ -56,9 +63,31 @@ I completed the **Cybersecurity Bootcamp at Moringa School**, delivered in partn
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-FF0000?style=for-the-badge)
 
 
-## Projects
 
-- [SOC with Microsoft Sentinel](https://github.com/YOUR-USER/SOC-with-Microsoft-Sentinel-Integration)
+## 🎓 Cybersecurity Learning Platforms
+
+### 🧑‍💻 TryHackMe
+[![TryHackMe Profile](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/stowett)
+
+
+---
+
+### 🐉 HackTheBox
+[![HackTheBox Profile](https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/YOUR-ID)
+
+*(Replace `YOUR-ID` with your HackTheBox profile ID if you have one)*
+
+---
+
+### 🛡 Cyber Ranges
+[![Cyber Ranges Profile](https://img.shields.io/badge/Cyber%20Ranges-Profile-blue?style=for-the-badge&logo=cybersecurity&logoColor=white)](https://app.cyberranges.com/profile/me)
+
+---
+
+### 📚 Other Platforms
+- [PortSwigger Academy](https://portswigger.net/web-security) – Web security labs  
+- [OverTheWire](https://overthewire.org/wargames/) – Linux & networking challenges  
+- [Blue Team Labs Online](https://blueteamlabs.online/) – SOC & defensive exercises  
 
 ## 🤳 Connect With Me
 
