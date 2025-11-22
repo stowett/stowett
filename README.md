@@ -69,6 +69,7 @@ I completed the **Cybersecurity Bootcamp at Moringa School**, delivered in partn
 - [PortSwigger Academy](https://portswigger.net/web-security) – Web security labs  
 - [OverTheWire](https://overthewire.org/wargames/) – Linux & networking challenges  
 - [Blue Team Labs Online](https://blueteamlabs.online/) – SOC & defensive exercises  
+- [OffSec Training Portal](https://portal.offsec.com/dashboard) – Advanced penetration testing & exploit development labs   
 
 ## Connect With Me
 
