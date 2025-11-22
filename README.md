@@ -66,21 +66,10 @@ I completed the **Cybersecurity Bootcamp at Moringa School**, delivered in partn
 
 ## 🎓 Cybersecurity Learning Platforms
 
-### 🧑‍💻 TryHackMe
-[![TryHackMe Profile](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/stowett)
+[![TryHackMe Profile](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/stowett), [![Cyber Ranges Profile](https://img.shields.io/badge/Cyber%20Ranges-Profile-blue?style=for-the-badge&logo=cybersecurity&logoColor=white)](https://app.cyberranges.com/profile/me)
+[![HackTheBox Profile](https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://ctf.hackthebox.com/user/profile/878751)
 
 
----
-
-### 🐉 HackTheBox
-[![HackTheBox Profile](https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/YOUR-ID)
-
-*(Replace `YOUR-ID` with your HackTheBox profile ID if you have one)*
-
----
-
-### 🛡 Cyber Ranges
-[![Cyber Ranges Profile](https://img.shields.io/badge/Cyber%20Ranges-Profile-blue?style=for-the-badge&logo=cybersecurity&logoColor=white)](https://app.cyberranges.com/profile/me)
 
 ---
 
