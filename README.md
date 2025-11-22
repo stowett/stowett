@@ -30,21 +30,6 @@ I'm passionate about Information Systems Management, Human Computer Interaction 
 | Active Directory setup & hardening | [Active Directory Project](https://github.com/YOUR-USER/Active-Directory-Project)
 
 
-
-## Tools
-
-### Network
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
-![Snort](https://img.shields.io/badge/Snort-FF6666?style=for-the-badge&logo=snort&logoColor=white)
-
-### Endpoint
-![Sysmon](https://img.shields.io/badge/Sysmon-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-
-### SIEM
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white)
-![Elastic](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=Elastic&logoColor=white)
-![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=Microsoft-Azure&logoColor=white)
-
 ## Certifications
 
 ![CompTIA Security+](https://img.shields.io/badge/Security%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white)
