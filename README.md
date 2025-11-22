@@ -1,13 +1,10 @@
 # Hello, I'm Susan Towett
-
-### 🎯 Objective  
-
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stowett/)
 
 ## Objective
 I aspire to join a **Security Operations Center (SOC)** as a **Tier 1 Analyst**, where I can apply my skills in **threat detection, incident response, and cloud security** to safeguard organizations against evolving cyber threats. My goal is to contribute to resilient security operations while continuously expanding my expertise in enterprise defense and SOC practices.
 
-## 🔐 Cybersecurity Project Portfolio  
+## Cybersecurity Project Portfolio  
 *Hands‑on projects bridging theory and practice to strengthen security operations and resilience.*
 
 I am passionate about **Information Systems Management, Human‑Computer Interaction Design (HCID), and Cybersecurity**, and thrive on solving complex challenges through hands‑on projects. My portfolio highlights work ranging from **vulnerability management** to **threat detection and security operations**, showcasing practical skills in building, automating, and strengthening defenses. Each project reflects my commitment to exploring the ever‑evolving cybersecurity landscape and applying knowledge to real‑world scenarios.  
@@ -15,18 +12,22 @@ I am passionate about **Information Systems Management, Human‑Computer Interac
 👉 Explore the projects below to see how I’ve contributed to enhancing security operations, streamlining processes, and driving resilient solutions.
 
 
-## 📂 Projects
+## Projects
 
 | Category                         | Project Title                                                                                  | Tools Used                  |
 |----------------------------------|------------------------------------------------------------------------------------------------|-----------------------------|
 | ⚠️ Vulnerability Management      | [Vulnerability Management Program Implementation](https://github.com/stowett/vuln-mgmt-program) | Nessus, Qualys, Excel       |
 | ⚠️ Vulnerability Management      | [Programmatic Vulnerability Remediations (PowerShell & BASH)](https://github.com/stowett/vuln-remediation-scripts) | PowerShell, Bash, Windows   |
 | 🚨 Threat Hunting & Security Ops | [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/stowett/threat-hunting-tor-browser) | Splunk, Sysmon, MITRE ATT&CK|
+ 
 
-## Certifications
+## Certifications  
 
-![CompTIA Security+](https://img.shields.io/badge/Security%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white)
-
+| Certification | Status | Badge |
+|---------------|--------|-------|
+| CompTIA Security+ | In Progress – Scheduled for Jan 2026 | ![Security+](https://img.shields.io/badge/CompTIA-Security%2B-E60000?style=for-the-badge&logo=comptia&logoColor=white) |
+| Aviatrix ACE Multicloud Network Associate | Earned 2025 | ![Aviatrix ACE](https://img.shields.io/badge/Aviatrix-ACE%20Multicloud%20Network%20Associate-FF4F00?style=for-the-badge&logo=aviatrix&logoColor=white) |
+| CEH (Certified Ethical Hacker) | Planned | ![CEH](https://img.shields.io/badge/EC--Council-CEH-black?style=for-the-badge&logo=ethicalhacking&logoColor=white) |
 
 ## Additional studies
 
@@ -44,7 +45,7 @@ ACE Certification Number: 2025-30221
 I completed the **Cybersecurity Bootcamp at Moringa School**, delivered in partnership with **Flatiron School**, where I gained hands‑on experience in Network and Systems Security, Ethical Hacking, Digital Forensics, Risk Management, and Cloud Security. The program emphasized applied skills in Networking, Operating Systems, Python Scripting, Virtualization, and System Hardening, while also covering advanced topics such as Cyber Threat Intelligence aligned with the MITRE ATT&CK framework, SIEM Configuration and Threat Hunting, Security Architecture, Incident Response, and Penetration Testing. Through interactive labs and guided projects, I developed the ability to identify vulnerabilities, secure networks and endpoints, analyze threats, and respond confidently to incidents.  
 
 
-## 🛠 Tools & Frameworks Learned
+## Tools & Frameworks Learned
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
@@ -57,7 +58,7 @@ I completed the **Cybersecurity Bootcamp at Moringa School**, delivered in partn
 ![Windows Active Directory](https://img.shields.io/badge/Windows%20Active%20Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
 
-## 🎓 Cybersecurity Learning Platforms
+## Cybersecurity Learning Platforms
 
 [![TryHackMe Profile](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/stowett) [![Cyber Ranges Profile](https://img.shields.io/badge/Cyber%20Ranges-Profile-blue?style=for-the-badge&logo=cybersecurity&logoColor=white)](https://app.cyberranges.com/profile/me)
 [![HackTheBox Profile](https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://ctf.hackthebox.com/user/profile/878751)
@@ -66,12 +67,12 @@ I completed the **Cybersecurity Bootcamp at Moringa School**, delivered in partn
 
 ---
 
-### 📚 Other Platforms
+### Other Platforms
 - [PortSwigger Academy](https://portswigger.net/web-security) – Web security labs  
 - [OverTheWire](https://overthewire.org/wargames/) – Linux & networking challenges  
 - [Blue Team Labs Online](https://blueteamlabs.online/) – SOC & defensive exercises  
 
-## 🤳 Connect With Me
+## Connect With Me
 
 [<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="___________ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
