@@ -12,8 +12,6 @@ I am passionate about **Information Systems Management, Human‑Computer Interac
 👉 Explore the projects below to see how I’ve contributed to enhancing security operations, streamlining processes, and driving resilient solutions.
 
 
-## Projects
-
 | Category                         | Project Title                                                                                  | Tools Used                  |
 |----------------------------------|------------------------------------------------------------------------------------------------|-----------------------------|
 | ⚠️ Vulnerability Management      | [Vulnerability Management Program Implementation](https://github.com/stowett/vuln-mgmt-program) | Nessus, Qualys, Excel       |
