@@ -61,7 +61,7 @@ I completed the **Cybersecurity Bootcamp at Moringa School**, delivered in partn
 ![Elastic](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=Elastic&logoColor=white)
 ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=Microsoft-Azure&logoColor=white)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-FF0000?style=for-the-badge)
-
+![Windows Active Directory](https://img.shields.io/badge/Windows%20Active%20Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
 
 ## 🎓 Cybersecurity Learning Platforms
