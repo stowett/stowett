@@ -21,7 +21,7 @@ I'm passionate about Information Systems Management, Human Computer Interaction 
 
 <hr/>
 
-## Skills
+## Skills & Projects
 
 | Skill | Associated Project |
 |------|---------------------|
