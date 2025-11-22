@@ -1,9 +1,11 @@
 # Hello, I'm Susan Towett
 
+### 🎯 Objective  
+
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stowett/)
 
 ## Objective
-I aim to join a Security Operations Center (SOC) as a Tier 1 Analyst, applying my skills in threat detection, incident response, and cloud security to protect organizations worldwide.
+I aspire to join a **Security Operations Center (SOC)** as a **Tier 1 Analyst**, where I can apply my skills in **threat detection, incident response, and cloud security** to safeguard organizations against evolving cyber threats. My goal is to contribute to resilient security operations while continuously expanding my expertise in enterprise defense and SOC practices.
 
 ## 🔐 Cybersecurity Project Portfolio  
 *Hands‑on projects bridging theory and practice to strengthen security operations and resilience.*
