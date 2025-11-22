@@ -10,14 +10,13 @@ I aim to join a Security Operations Center (SOC) as a Tier 1 Analyst, applying m
 I'm passionate about Information Systems Management, Human Computer Interaction Design (HCID) and Cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
 
-## Projects
+## 📂 Projects
 
-| Category                         | Project Title                                      | Repo Link                                                                 | Tools Used                  |
-|----------------------------------|----------------------------------------------------|---------------------------------------------------------------------------|-----------------------------|
-| ⚠️ Vulnerability Management      | Vulnerability Management Program Implementation    | [View Repo](https://github.com/YOUR-USER/vuln-mgmt-program)               | Nessus, Qualys, Excel       |
-| ⚠️ Vulnerability Management      | Programmatic Vulnerability Remediations (PowerShell & BASH) | [View Repo](https://github.com/YOUR-USER/vuln-remediation-scripts) | PowerShell, Bash, Windows   |
-| 🚨 Threat Hunting & Security Ops | Threat Hunting Scenario (Tor Browser Usage)        | [View Repo](https://github.com/YOUR-USER/threat-hunting-tor-browser)      | Splunk, Sysmon, MITRE ATT&CK|
-
+| Category                         | Project Title                                                                                  | Tools Used                  |
+|----------------------------------|------------------------------------------------------------------------------------------------|-----------------------------|
+| ⚠️ Vulnerability Management      | [Vulnerability Management Program Implementation](https://github.com/stowett/vuln-mgmt-program) | Nessus, Qualys, Excel       |
+| ⚠️ Vulnerability Management      | [Programmatic Vulnerability Remediations (PowerShell & BASH)](https://github.com/stowett/vuln-remediation-scripts) | PowerShell, Bash, Windows   |
+| 🚨 Threat Hunting & Security Ops | [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/stowett/threat-hunting-tor-browser) | Splunk, Sysmon, MITRE ATT&CK|
 
 ## Certifications
 
