@@ -53,6 +53,8 @@ I completed the [**Cybersecurity Bootcamp at Moringa School**](https://moringasc
 ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=Microsoft-Azure&logoColor=white)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-FF0000?style=for-the-badge)
 ![Windows Active Directory](https://img.shields.io/badge/Windows%20Active%20Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-blue?style=for-the-badge&logo=wazuh&logoColor=white)
 
 
 ## Cybersecurity Learning Platforms
