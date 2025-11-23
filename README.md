@@ -7,7 +7,7 @@ I aspire to join a **Security Operations Center (SOC)** as a **Tier 1 Analyst**,
 ## Cybersecurity Project Portfolio  
 *Hands‑on projects bridging theory and practice to strengthen security operations and resilience.*
 
-I am passionate about **Information Systems Management, Human‑Computer Interaction Design (HCID), and Cybersecurity**, and thrive on solving complex challenges through hands‑on projects. My portfolio highlights work ranging from **vulnerability management** to **threat detection and security operations**, showcasing practical skills in building, automating, and strengthening defenses. Each project reflects my commitment to exploring the ever‑evolving cybersecurity landscape and applying knowledge to real‑world scenarios.  
+I am passionate about **Information Systems Management, Human‑Computer Interaction Design (HCID), and Cybersecurity**, and thrive on solving complex challenges through hands‑on projects. My Cybersecurity portfolio highlights work ranging from **vulnerability management** to **threat detection and security operations**, showcasing practical skills in building, automating, and strengthening defenses. Each project reflects my commitment to exploring the ever‑evolving cybersecurity landscape and applying knowledge to real‑world scenarios.  
 
 👉 Explore the projects below to see how I’ve contributed to enhancing security operations, streamlining processes, and driving resilient solutions.
 
