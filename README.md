@@ -31,7 +31,7 @@ I am passionate about **Information Systems Management, Human‑Computer Interac
 
 ![Aviatrix ACE](https://img.shields.io/badge/Aviatrix%20ACE-Multicloud%20Network%20Associate-orange?style=for-the-badge)
 
-The Aviatrix Certified Engineer (ACE) Multicloud Network Associate certification validates the earner’s understanding of basic networking and security concepts for AWS, Azure, GCP, and OCI as well as their limitations in meeting Enterprise requirements. An ACE Associate understands the basic design principles of a multicloud network architecture and can demonstrate knowledge of day 2 operational requirements.
+The [Aviatrix Certified Engineer (ACE) Multicloud Network Associate](https://ace.aviatrix.com/ace-associate) certification validates the earner’s understanding of basic networking and security concepts for AWS, Azure, GCP, and OCI as well as their limitations in meeting Enterprise requirements. An ACE Associate understands the basic design principles of a multicloud network architecture and can demonstrate knowledge of day 2 operational requirements.
 ACE Certification Number: 2025-30221
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
