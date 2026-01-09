@@ -23,7 +23,7 @@ I am passionate about **Information Systems Management, Human‑Computer Interac
 
 | Certification | Status | Badge |
 |---------------|--------|-------|
-| CompTIA Security+ | Exam Prep In Progress – Scheduled for Jan 2026 | ![Security+](https://img.shields.io/badge/CompTIA-Security%2B-E60000?style=for-the-badge&logo=comptia&logoColor=white) |
+| CompTIA Security+ | Exam Prep In Progress – Scheduled for Feb 2026 | ![Security+](https://img.shields.io/badge/CompTIA-Security%2B-E60000?style=for-the-badge&logo=comptia&logoColor=white) |
 | Aviatrix ACE Multicloud Network Associate | Earned 2025 | ![Aviatrix ACE](https://img.shields.io/badge/Aviatrix-ACE%20Multicloud%20Network%20Associate-FF4F00?style=for-the-badge&logo=aviatrix&logoColor=white) |
 | CEH (Certified Ethical Hacker) | Planned | ![CEH](https://img.shields.io/badge/EC--Council-CEH-black?style=for-the-badge&logo=ethicalhacking&logoColor=white) |
 
