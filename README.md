@@ -70,12 +70,7 @@ I completed the [**Cybersecurity Bootcamp at Moringa School**](https://moringasc
 - [Blue Team Labs Online](https://blueteamlabs.online/) – SOC & defensive exercises  
 - [OffSec Training Portal](https://portal.offsec.com/dashboard) – Advanced penetration testing & exploit development labs   
 
-## Connect With Me
 
-[twitter]: https://twitter.com/___________
-[youtube]: https://www.youtube.com/c/___________
-[instagram]: https://www.instagram.com/___________
-[linkedin]: https://linkedin.com/in/___________
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
