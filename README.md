@@ -6,7 +6,7 @@ Most small and mid-sized businesses don’t get hacked because of “advanced at
 
 🔹I monitor systems (Windows and Linux), investigate unusual activity, and identify vulnerabilities before attackers can use them. 
 🔹More importantly, I turn those risks into ongoing monitoring so the same issue doesn’t happen twice.
-
+---
 ## What I Do for Small Businesses
 - **Security Risk Assessments** – Identify vulnerabilities in systems, accounts, and processes with a clear, actionable plan  
 - **Email & MFA Protection** – Implement Multi-Factor Authentication, secure Microsoft 365 or Google Workspace environments  
@@ -20,12 +20,11 @@ Most small and mid-sized businesses don’t get hacked because of “advanced at
 - CompTIA Security+ certified, hands-on experience with Windows & Linux, Microsoft Defender, and Sentinel  
 - Experienced in turning technical knowledge into clear security outcomes for small businesses  
 ---
-
 ## Get Started
 Book a **free 15-minute consultation** to identify your risks and secure your business today:
 📧 Email: teetondigital@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/stowett/
-
+---
 ## Cybersecurity Project Portfolio  
 *Hands‑on projects bridging theory and practice to strengthen security operations and resilience.*
 
@@ -40,7 +39,7 @@ I am passionate about **Information Systems Management, Human‑Computer Interac
 | ⚠️ Vulnerability Management      | [Programmatic Vulnerability Remediations (PowerShell & BASH)](https://github.com/stowett/programmatic-vulnerability-remediations) | PowerShell, Bash, Windows   |
 | 🚨 Threat Hunting & Security Ops | [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/stowett/threat-hunting-scenario-tor) | Splunk, Sysmon, MITRE ATT&CK|
  
-
+---
 ## Certifications  
 
 | Certification | Status | Badge |
