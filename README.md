@@ -7,15 +7,24 @@ Most small and mid-sized businesses don’t get hacked because of “advanced at
 🔹I monitor systems (Windows and Linux), investigate unusual activity, and identify vulnerabilities before attackers can use them. 
 🔹More importantly, I turn those risks into ongoing monitoring so the same issue doesn’t happen twice.
 
-What this means for your business:
-🔹Fewer surprises from information security incidents
-🔹Reduced risk of downtime or data loss
-🔹Better visibility into what’s happening in your systems
-🔹Clear, documented actions when something goes wrong
+## What I Do for Small Businesses
+- **Security Risk Assessments** – Identify vulnerabilities in systems, accounts, and processes with a clear, actionable plan  
+- **Email & MFA Protection** – Implement Multi-Factor Authentication, secure Microsoft 365 or Google Workspace environments  
+- **Endpoint Monitoring & Alerts** – Configure devices for threat detection and incident notifications  
+- **Backup & Recovery Planning** – Ensure your business can recover quickly from data loss or ransomware  
+- **Incident Response Playbooks** – Step-by-step guides for handling security incidents without panic  
+---
+## Why Work With Me
+- Practical solutions, no technical jargon  
+- Focus on real-world risk reduction  
+- CompTIA Security+ certified, hands-on experience with Windows & Linux, Microsoft Defender, and Sentinel  
+- Experienced in turning technical knowledge into clear security outcomes for small businesses  
+---
 
-My workflow:
-🔹Identify → Confirm → Assess impact → Fix or escalate
-🔹I also use security platforms, like Microsoft Sentinel and Defender, to track activity and improve how threats are detected over time.
+## Get Started
+Book a **free 15-minute consultation** to identify your risks and secure your business today:
+📧 Email: teetondigital@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/stowett/
 
 ## Cybersecurity Project Portfolio  
 *Hands‑on projects bridging theory and practice to strengthen security operations and resilience.*
