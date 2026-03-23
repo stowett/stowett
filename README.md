@@ -23,9 +23,11 @@ Most small and mid-sized businesses don’t get hacked because of “advanced at
 ---
 
 ## Get Started
+
 Book a **free 15-minute consultation** to identify your risks and secure your business today:
 📧 Email: teetondigital@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/stowett/
+
 ---
 
 ## Cybersecurity Project Portfolio  
