@@ -1,8 +1,22 @@
 # Hello, I'm Susan Towett
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stowett/)
 
 ## Objective
-I aspire to join a **Security Operations Center (SOC)** as a **Tier 2 Analyst**, where I can apply my skills in **threat detection, incident response, and cloud security** to safeguard organizations against evolving cyber threats. My goal is to contribute to resilient security operations while continuously expanding my expertise in enterprise defense and SOC practices.
+I help growing businesses avoid costly cybersecurity incidents by identifying risks early, monitoring threats, and making sure information security issues are handled before they disrupt operations. 
+
+Most small and mid-sized businesses don’t get hacked because of “advanced attacks” they get exposed through overlooked weaknesses, misconfigurations, or missed alerts. That’s where I come in.
+
+🔹I monitor systems (Windows and Linux), investigate unusual activity, and identify vulnerabilities before attackers can use them. 
+🔹More importantly, I turn those risks into ongoing monitoring so the same issue doesn’t happen twice.
+
+What this means for your business:
+🔹Fewer surprises from information security incidents
+🔹Reduced risk of downtime or data loss
+🔹Better visibility into what’s happening in your systems
+🔹Clear, documented actions when something goes wrong
+
+My workflow:
+🔹Identify → Confirm → Assess impact → Fix or escalate
+🔹I also use security platforms, like Microsoft Sentinel and Defender, to track activity and improve how threats are detected over time.
 
 ## Cybersecurity Project Portfolio  
 *Hands‑on projects bridging theory and practice to strengthen security operations and resilience.*
