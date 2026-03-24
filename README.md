@@ -23,8 +23,8 @@ Most small and mid-sized businesses don’t get hacked because of “advanced at
 ## Get Started
 
 Book a **free 15-minute consultation** to identify your risks and secure your business today:
-📧 Email: teetondigital@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/stowett/
+Email: teetondigital@gmail.com  
+LinkedIn: https://www.linkedin.com/in/stowett/
 
 ---
 
@@ -38,9 +38,9 @@ I am passionate about **Information Systems Management, Human‑Computer Interac
 
 | Category                         | Project Title                                                                                  | Tools Used                  |
 |----------------------------------|------------------------------------------------------------------------------------------------|-----------------------------|
-| ⚠️ Vulnerability Management      | [Vulnerability Management Program Implementation](https://github.com/stowett/Vulnerability-Management-Program) | Nessus, Qualys, Excel       |
-| ⚠️ Vulnerability Management      | [Programmatic Vulnerability Remediations (PowerShell & BASH)](https://github.com/stowett/programmatic-vulnerability-remediations) | PowerShell, Bash, Windows   |
-| 🚨 Threat Hunting & Security Ops | [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/stowett/threat-hunting-scenario-tor) | Splunk, Sysmon, MITRE ATT&CK|
+| Vulnerability Management      | [Vulnerability Management Program Implementation](https://github.com/stowett/Vulnerability-Management-Program) | Nessus, Qualys, Excel       |
+| Vulnerability Management      | [Programmatic Vulnerability Remediations (PowerShell & BASH)](https://github.com/stowett/programmatic-vulnerability-remediations) | PowerShell, Bash, Windows   |
+| Threat Hunting & Security Ops | [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/stowett/threat-hunting-scenario-tor) | Splunk, Sysmon, MITRE ATT&CK|
  
 ---
 ## Certifications  
