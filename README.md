@@ -47,7 +47,7 @@ I am passionate about **Information Systems Management, Human‑Computer Interac
 
 | Certification | Status | Badge |
 |---------------|--------|-------|
-| CompTIA Security+ | Earned March 2026 | ![Security+](https://img.shields.io/badge/CompTIA-Security%2B-E60000?style=for-the-badge&logo=comptia&logoColor=white) (https://www.credly.com/badges/56e800d0-701d-4dbc-8c27-33a831fea8a7)|
+| CompTIA Security+ | Earned March 2026 | ![Security+](https://img.shields.io/badge/CompTIA-Security%2B-E60000?style=for-the-badge&logo=comptia&logoColor=white) [Secuirty+](https://www.credly.com/badges/56e800d0-701d-4dbc-8c27-33a831fea8a7)|
 | Aviatrix ACE Multicloud Network Associate | Earned Nov 2025 | ![Aviatrix ACE](https://img.shields.io/badge/Aviatrix-ACE%20Multicloud%20Network%20Associate-FF4F00?style=for-the-badge&logo=aviatrix&logoColor=white) |
 
 
