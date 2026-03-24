@@ -8,17 +8,17 @@ Most small and mid-sized businesses don’t get hacked because of “advanced at
 🔹More importantly, I turn those risks into ongoing monitoring so the same issue doesn’t happen twice.
 
 ## What I Do for Small Businesses
-- **Security Risk Assessments** – Identify vulnerabilities in systems, accounts, and processes with a clear, actionable plan  
-- **Email & MFA Protection** – Implement Multi-Factor Authentication, secure Microsoft 365 or Google Workspace environments  
-- **Endpoint Monitoring & Alerts** – Configure devices for threat detection and incident notifications  
-- **Backup & Recovery Planning** – Ensure your business can recover quickly from data loss or ransomware  
-- **Incident Response Playbooks** – Step-by-step guides for handling security incidents without panic  
+🔹**Security Risk Assessments** – Identify vulnerabilities in systems, accounts, and processes with a clear, actionable plan  
+🔹**Email & MFA Protection** – Implement Multi-Factor Authentication, secure Microsoft 365 or Google Workspace environments  
+🔹**Endpoint Monitoring & Alerts** – Configure devices for threat detection and incident notifications  
+🔹**Backup & Recovery Planning** – Ensure your business can recover quickly from data loss or ransomware  
+🔹**Incident Response Playbooks** – Step-by-step guides for handling security incidents without panic  
 
 ## Why Work With Me
-- Practical solutions, no technical jargon  
-- Focus on real-world risk reduction  
-- CompTIA Security+ certified, hands-on experience with Windows & Linux, Microsoft Defender, and Sentinel  
-- Experienced in turning technical knowledge into clear security outcomes for small businesses  
+🔹Practical solutions, no technical jargon  
+🔹Focus on real-world risk reduction  
+🔹CompTIA Security+ certified, hands-on experience with Windows & Linux, Microsoft Defender, and Sentinel  
+🔹Experienced in turning technical knowledge into clear security outcomes for small businesses  
 
 ## Get Started
 
@@ -89,10 +89,10 @@ I completed the [**Cybersecurity Bootcamp at Moringa School**](https://moringasc
 ---
 
 ### Other Platforms
-- [PortSwigger Academy](https://portswigger.net/web-security) – Web security labs  
-- [OverTheWire](https://overthewire.org/wargames/) – Linux & networking challenges  
-- [Blue Team Labs Online](https://blueteamlabs.online/) – SOC & defensive exercises  
-- [OffSec Training Portal](https://portal.offsec.com/dashboard) – Advanced penetration testing & exploit development labs   
+🔹[PortSwigger Academy](https://portswigger.net/web-security) – Web security labs  
+🔹[OverTheWire](https://overthewire.org/wargames/) – Linux & networking challenges  
+🔹[Blue Team Labs Online](https://blueteamlabs.online/) – SOC & defensive exercises  
+🔹[OffSec Training Portal](https://portal.offsec.com/dashboard) – Advanced penetration testing & exploit development labs   
 
 
 
