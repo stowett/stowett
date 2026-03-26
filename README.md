@@ -26,7 +26,7 @@ Book a **free 15-minute consultation** to identify your risks and secure your bu
 https://www.linkedin.com/in/stowett/
 
 ## Best fit:
-🔹Fintech, Telecom, Banking, Ecommerce and Digital Platforms where uptime, trust, and data protection directly affect revenue.
+🔹Fintech, Telecom, Banking, Ecommerce and Digital Platforms where uptime, trust, and data protection directly affect revenue.    
 🔹I support teams remotely and can help extend monitoring across multiple time zones (EU, Africa, Middle East, APAC, and US East).
 
 ---
