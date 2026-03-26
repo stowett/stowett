@@ -25,6 +25,10 @@ Most small and mid-sized businesses don’t get hacked because of “advanced at
 Book a **free 15-minute consultation** to identify your risks and secure your business today via LinkedIn message:
 https://www.linkedin.com/in/stowett/
 
+## Best fit:
+🔹Fintech, telecom, banking, and digital platforms where uptime, trust, and data protection directly affect revenue.
+🔹I support teams remotely and can help extend monitoring across multiple time zones (EU, Africa, Middle East, APAC, and US East).
+
 ---
 
 ## Cybersecurity Project Portfolio  
