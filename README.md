@@ -44,7 +44,7 @@ I am passionate about **Information Systems Management, Human‑Computer Interac
 | Vulnerability Management      | [Vulnerability Management Program Implementation](https://github.com/stowett/Vulnerability-Management-Program) | Nessus, Qualys, Excel       |
 | Vulnerability Management      | [Programmatic Vulnerability Remediations (PowerShell & BASH)](https://github.com/stowett/programmatic-vulnerability-remediations) | PowerShell, Bash, Windows   |
 | Threat Hunting & Security Ops | [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/stowett/threat-hunting-scenario-tor) | Splunk, Sysmon, MITRE ATT&CK|
-| DISA STIGS | [Remediations](https://github.com/stowett/DISA-STIGS-Scripts)  | Powershell|
+| DISA STIGS | [Windows 11 Remediations](https://github.com/stowett/DISA-STIGS-Scripts)  | Powershell|
  
 ---
 ## Certifications  
