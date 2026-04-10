@@ -44,7 +44,7 @@ I am passionate about **Information Systems Management, Human‑Computer Interac
 | Vulnerability Management      | [Vulnerability Management Program Implementation](https://github.com/stowett/Vulnerability-Management-Program) | Nessus, Qualys, Excel       |
 | Vulnerability Management      | [Programmatic Vulnerability Remediations (PowerShell & BASH)](https://github.com/stowett/programmatic-vulnerability-remediations) | PowerShell, Bash, Windows   |
 | Threat Hunting & Security Ops | [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/stowett/threat-hunting-scenario-tor) | Splunk, Sysmon, MITRE ATT&CK|
-| DISA STIG Remediations - DISA STIG stands for Defense Information Systems Agency Security Technical Implementation Guide. It’s a set of cybersecurity configuration standards that tells you how to securely configure systems, software, and networks so they meet strict military-grade security requirements.  | [STIGs Remediations](https://github.com/stowett/DISA-STIGS-Scripts)  | Powershell|
+| DISA STIG Remediations - DISA STIG stands for Defense Information Systems Agency, Security Technical Implementation Guide. It’s a set of cybersecurity configuration standards that tells you how to securely configure systems, software, and networks so they meet strict military-grade security requirements.  | [DISA STIGs Remediations](https://github.com/stowett/DISA-STIGS-Scripts)  | Powershell|
  
 ---
 ## Certifications  
