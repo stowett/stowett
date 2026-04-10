@@ -39,8 +39,8 @@ I am passionate about **Information Systems Management, Human‑Computer Interac
 👉 Explore the projects below to see how I’ve contributed to enhancing security operations, streamlining processes, and driving resilient solutions.
 
 
-| Project Title                                        | Tools Used                  |
-|------------------------------------------------------|------------------------------------------|-----------------------------|
+| Project Title                                        |              Tools Used                  |
+|------------------------------------------------------|------------------------------------------|
 | [Vulnerability Management Program Implementation](https://github.com/stowett/Vulnerability-Management-Program) | Nessus, Qualys, Excel       |
 | [Programmatic Vulnerability Remediations (PowerShell & BASH)](https://github.com/stowett/programmatic-vulnerability-remediations) |PowerShell, Bash, Windows   |
 | [Threat Hunting & Security Ops (Tor Browser Usage)](https://github.com/stowett/threat-hunting-scenario-tor)| Splunk, Sysmon, MITRE ATT&CK|
