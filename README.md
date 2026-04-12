@@ -1,4 +1,7 @@
 # Hello, I'm Susan Towett
+![PowerShell](https://img.shields.io/badge/PowerShell-blue)
+![Windows](https://img.shields.io/badge/Windows-11-blue)
+![Azure](https://img.shields.io/badge/Azure-Basics-blue)
 
 I help growing businesses avoid costly cybersecurity incidents by identifying risks early, monitoring threats, and making sure information security issues are handled before they disrupt operations. 
 
